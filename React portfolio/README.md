@@ -2,6 +2,5 @@
 
 # Tool used- 
 codesandbox
-# Deployment tool- 
-Netlify
+
 
